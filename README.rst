@@ -11,7 +11,7 @@ generally interacting with HTTP servers.
 
 .. class:: no-web
 
-    .. image:: https://raw.githubusercontent.com/jbutler/httpie/master/output.gif
+    .. image:: https://github.com/jbutler42/blob/httpie/master/output.gif
         :alt: HTTPie compared to cURL
         :width: 100%
         :align: center
